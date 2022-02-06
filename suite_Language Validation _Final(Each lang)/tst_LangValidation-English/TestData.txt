@@ -1,0 +1,15 @@
+Step 1-Language:English
+Step 2-Language:čeština
+Step 3-Language:Polskie
+Step 4-Language:Română
+Step 5-Language:Chineese Traditional
+Step 6-Language:Hrvatski
+Step 7-Language:Française
+Step 8-Language:Deutsche
+Step 9-Language:Magyar
+Step 10-Language:Italian
+Step 11-Language:Português
+Step 12:Language:Русский
+Step 13:Language:Español
+Step 14:Language:Türkçe
+Step 15:Language:Tiếng Việt
